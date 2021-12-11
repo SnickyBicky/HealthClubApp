@@ -6,8 +6,7 @@ To try the program out, download and import it, then navigate to the bin>Debug f
 <b>Frequently Asked Questions – Help for my HealthClubApp</b>
 <br>
 <br><b>How do I start a program?</b>
-<br>In order to start the program double click on the ParkVale.exe file.
-<br>
+<br>In order to start the program double click on the ParkVale.exe file located in the bin>Debug folder.
 <br>
 <br>
 <br><b>What do I do with the program?</b>
