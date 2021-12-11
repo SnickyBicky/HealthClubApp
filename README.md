@@ -3,7 +3,7 @@ VB project I have completed as a part of my college diploma.
 To try the program out, download and import it, then navigate to the bin>Debug folder and use ParkVale.exe and log in as admin using password: admin
 
 
-<b>Frequently Asked Questions – Help for Parkvale Application</b>
+<b>Frequently Asked Questions – Help for my HealthClubApp</b>
 <br>
 <br><b>How do I start a program?</b>
 <br>In order to start the program double click on the ParkVale.exe file.
